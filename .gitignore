@@ -3,3 +3,4 @@
 **/venv/
 **/venv_win/
 **/__pycache__/
+# .gitignore bekerja hanya kalau file ini di push duluan sebelum seluruh setlist_asa di push. 
