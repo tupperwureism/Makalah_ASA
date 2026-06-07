@@ -1,0 +1,5 @@
+**/output/CURRENT.docx
+**/output/CURRENT_from_google.txt
+**/venv/
+**/venv_win/
+**/__pycache__/
